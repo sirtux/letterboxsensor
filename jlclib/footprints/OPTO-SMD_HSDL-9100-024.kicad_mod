@@ -1,0 +1,224 @@
+(footprint "OPTO-SMD_HSDL-9100-024"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "OPTO-SMD_HSDL-9100-024 footprint")
+	(tags "OPTO-SMD_HSDL-9100-024 footprint C5186960")
+	(property "Reference" "REF**"
+		(at 0 -3.39713 0)
+		(layer "F.SilkS")
+		(uuid "3f496fc4-b394-47b7-a523-506e305a101c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "OPTO-SMD_HSDL-9100-024"
+		(at 0 3.396876 0)
+		(layer "F.Fab")
+		(uuid "60bfd5b7-02c3-43bd-9d1b-5fd9339b286d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "933ec6e8-c686-451e-b1c6-bcd5b12a7d13")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c3006cae-617c-4c3e-a0c7-29f5f33c061c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68a0994d-2fed-4c42-95f6-882cec724daf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.429007 -1.39713)
+		(end 3.429007 -1.39713)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ab890d7a-abc9-4cbf-b85a-f9a0c6d055b1")
+	)
+	(fp_line
+		(start -3.429007 -1.106274)
+		(end -3.429007 -1.39713)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd32ff1d-382e-42dc-ad2e-16eb2f9d2106")
+	)
+	(fp_line
+		(start -3.429007 1.396876)
+		(end -3.429007 1.10602)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ae4ca0a8-87fc-435f-8370-827403a34ba3")
+	)
+	(fp_line
+		(start -1.292863 -1.39713)
+		(end -0.635001 -1.39713)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a0f052a0-d2f4-4716-b4af-2037f85181b3")
+	)
+	(fp_line
+		(start -0.978283 -1.39713)
+		(end -0.978283 1.396876)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8817e901-3d6f-40cf-8400-3b4aa63ed0c5")
+	)
+	(fp_line
+		(start -0.635001 -1.39713)
+		(end -0.635001 1.396876)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "56325851-292d-4175-993f-24879ac01db4")
+	)
+	(fp_line
+		(start -0.635001 1.396876)
+		(end -1.361443 1.396876)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "158dd48b-8d1a-42f8-bb19-987276ebbcc4")
+	)
+	(fp_line
+		(start 3.429007 -1.39713)
+		(end 3.429007 -1.106248)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b17d7587-2c2a-458d-bf66-a96a894598e0")
+	)
+	(fp_line
+		(start 3.429007 1.106045)
+		(end 3.429007 1.396876)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6328a32e-97e9-4504-a78d-397f4d26b48c")
+	)
+	(fp_line
+		(start 3.429007 1.396876)
+		(end -3.429007 1.396876)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e11101cd-0931-46f6-8eae-0502696e4256")
+	)
+	(fp_circle
+		(center -3.450038 -1.375133)
+		(end -3.420041 -1.375133)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "3ff98d39-219d-4d65-8939-1e06ca885c75")
+	)
+	(fp_text user "REF**"
+		(at 0 5.396876 0)
+		(layer "F.Fab")
+		(uuid "12436c1e-1a52-4a94-b169-8d74e6ecfc11")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.700025 -0.550038)
+		(size 2.5 0.650013)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e55b4b44-7635-432e-878c-ddb146108a85")
+	)
+	(pad "2" smd rect
+		(at -2.700025 0.549784)
+		(size 2.5 0.650013)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "157feebb-d652-45be-8768-9658bc51d565")
+	)
+	(pad "3" smd rect
+		(at 2.700025 0.550038)
+		(size 2.5 0.650013)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d67f6446-092b-4a4e-934f-165c2a7a8fc5")
+	)
+	(pad "4" smd rect
+		(at 2.700025 -0.550038)
+		(size 2.5 0.650013)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "cb1d4598-3654-4605-8431-478defdd14c2")
+	)
+	(model "/Users/tom/repo/letterboxsensor/jlclib/footprints/models/hsdl9100.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
